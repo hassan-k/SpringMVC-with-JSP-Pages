@@ -1,0 +1,11 @@
+﻿[{
+	"id": 1,
+	"firstName": "Hassan",
+	"lastName": "Khani",
+	"dateOfBirth":"1/1/1979"
+}, {
+	"id": 1,
+	"firstName": "Khan",
+	"lastName": "Hassani",
+	"dateOfBirth":"1/1/1978"
+}]

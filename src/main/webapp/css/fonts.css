@@ -1,0 +1,103 @@
+
+@font-face {font-family: brankovic;src: url(../englishfonts/brankovic.ttf);}
+@font-face {font-family: chunkfive;src: url(../englishfonts/Chunkfive.otf);}
+@font-face {font-family: ciclefina;src: url(../englishfonts/Cicle_Fina.ttf);}
+@font-face {font-family: Arkhive;src: url(../englishfonts/42675.ttf);}
+@font-face {font-family: modern;src: url(../englishfonts/42828.ttf);}
+@font-face {font-family: f1942;src: url(../englishfonts/1942.ttf);}
+@font-face {font-family: specialelite;src: url(../englishfonts/SpecialElite.ttf);}
+@font-face {font-family: barken;src: url(../englishfonts/Barkentina1.otf);}
+@font-face {font-family: skarpa;src: url(../englishfonts/skarparegular.ttf);}
+@font-face {font-family: mfsimply;src: url(../englishfonts/MfSimplyComplicated.ttf);}
+
+
+.barken{
+	font-family: barken;
+}
+
+.skarpa{
+	font-family: skarpa;
+}
+
+.mfsimply{
+	font-family: mfsimply;
+}
+
+
+.specialelite{
+	font-family: specialelite;
+}
+
+
+.f1942{
+	font-family: f1942;
+}
+
+.modern{
+	font-family: modern;
+}
+
+.arkhive{
+	font-family: Arkhive;
+}
+
+.ciclefina {
+	font-family:ciclefina;
+}
+
+.chunkfive{
+	font-family: chunkfive;
+}
+
+.brankovic{
+	font-family: brankovic;
+}
+
+.roya{
+	font-family: roya;
+}
+
+
+.xxsmall{
+	font-size: 8px;
+}
+
+.xsmall{
+	font-size: 12px;
+}
+
+.small{
+	font-size: 14px;
+}
+
+.medium{
+	font-size: 20px;
+}
+
+.xmedium{
+	font-size: 22px;
+}
+
+.xxmeduim{
+		font-size: 24px;
+}
+
+.larg{
+	font-size: 30px;
+}
+
+.xlarg{
+	font-size: 40px;
+}
+
+.xxlarg{
+	font-size: 50px;
+}
+
+.spaceletter1{
+	letter-spacing: 0.3em;
+}
+
+.spaceword1{
+	word-spacing: 0.5em;
+}
