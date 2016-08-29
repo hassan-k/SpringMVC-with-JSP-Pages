@@ -1,0 +1,28 @@
+USE fispan;
+
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (4,'John','Smith','2016-08-10');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (5,'Ali','Razi','2016-08-07');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (6,'Mehran','jan','2016-08-13');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (7,'Mary','Jain','2016-08-26');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (8,'Fred','Mile','2016-08-01');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (9,'Filip','ras','2016-07-04');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (10,'Jade','Ramon','2016-07-31');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (11,'Tara','jan','2016-06-02');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (12,'Anna','rose','2016-06-11');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (13,'a','a','2016-08-17');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (14,'r','r','2016-08-09');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (15,'u','u','2016-08-27');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (16,'r','','2016-08-01');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (17,'o','o','2016-08-01');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (18,'y','y','2016-08-14');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (19,'','n','2016-08-23');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (20,'z','z','2016-08-21');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (22,'f','g','2016--34-3');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (23,'hj','hj','2016-08-14');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (24,'d','d','2016-08-24');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (25,'e','e','2016-08-29');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (26,'g','g','2016-08-24');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (27,'er','er','2016-08-30');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (28,'FD','FD','2016-08-29');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (29,'Jim','Carry','1970-04-23');
+insert into `users`(`id`,`firstname`,`lastname`,`dateofbirth`) values (33,'p','p','2016-08-24');
