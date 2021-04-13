@@ -1,1 +1,2 @@
-# Fi.Span-Project
+# Spring MVC with JSP Pages
+  - REST API
