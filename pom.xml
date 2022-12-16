@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <properties>
 		<context.path>fispan</context.path>
-		<spring.version>4.1.5.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<hibernate.version>4.3.8.Final</hibernate.version>
 		<log4j.version>1.2.17</log4j.version>
 		<jstl.version>1.2</jstl.version>
